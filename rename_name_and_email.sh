@@ -1,6 +1,6 @@
 #!/usr/bin/sh
 git filter-branch --commit-filter '
-        if [ "$GIT_AUTHOR_EMAIL" = example@example.com" ];
+        if [ "$GIT_AUTHOR_EMAIL" = "example@example.com" ];
         then
                 GIT_AUTHOR_NAME="craftkit";
                 GIT_AUTHOR_EMAIL="craftkit@example.com";
