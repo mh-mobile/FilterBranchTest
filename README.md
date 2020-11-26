@@ -6,7 +6,7 @@ git filter-branchコマンド検証用のプロジェクト
 下記の各シェルスクリプトの実行前に、本プロジェクトをcloneしておく
 
 ```
-git clone git@github.com:mbyk/FilterBranchTest.git
+git clone git@github.com:mh-mobile/FilterBranchTest.git
 ```
 
 ### コミットログの作成者・コミッターの名前とメールアドレスの変更
